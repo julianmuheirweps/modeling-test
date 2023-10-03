@@ -1,0 +1,15 @@
+<settings>
+    <servers>
+        <server>
+            <id>gitea</id>
+            <configuration>
+                <httpHeaders>
+                    <property>
+                        <name>Authorization</name>
+                        <value>token 85361b901a837c1cf1cac2e988de99781016f3c4</value>
+                    </property>
+                </httpHeaders>
+            </configuration>
+        </server>
+    </servers>
+</settings>
